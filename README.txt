@@ -1,0 +1,2 @@
+Saya membuat absensi kelas dengan 3 tabel yaitu user,kelas,dan absensi dengan relasi tabel absensi memiliki user_id,dan kelas_id
+saya membuat restful api pada ketiga tabel tersebut dengan autorisasinya
